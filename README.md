@@ -7,7 +7,7 @@ Many state-of-the-art multimedia recommender efforts effectively alleviate the i
 
 In this work, we aim to reduce the negative effects of multimodal noise and further improve user preference modeling. Towards this end, we develop a multimodal graph contrastive learning (MGCL) approach, which decomposes user preferences into multiple dimensions and performs cross-dimension mutual information maximization, so that user preference modeling over different dimensions can be enhanced with each other. In particular, we first adopt the graph learning approach to generate representations of users and items in the interaction and multimodal dimensions, respectively. Then, we construct an additional contrastive learning task to maximize the consistency between different dimensions. Extensive experiments on three public datasets validate the effectiveness and scalability of the proposed MGCL.
 
-We provide tensorflow implementation for MEGCF. **we rerun the MEGCF code on the three datasets and record the results in Model/Log/result-Art(or beauty, Taobao).txt.**
+We provide tensorflow implementation for MEGCF. **we rerun the MEGCF code on the three datasets and record the best results as follows.**
 
 ## specific results:
 - **amazon-beauty:** best result- hr@5,10,20=0.5589368258859132,0.6614663585001644,0.7605932203388645,ndcg@5,10,20=0.4346333457935099,0.4678397335140145,0.49290631919252564
