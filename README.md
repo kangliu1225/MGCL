@@ -11,14 +11,6 @@ We provide tensorflow implementation for MEGCF.
 
 ### Before running the codes, please download the [datasets](https://www.aliyundrive.com/s/cmEeDMecU88) and copy them to the Data directory.
 
-**we rerun the MEGCF code on the three datasets and record the best results as follows.**
-
-## specific results:
-- **amazon-beauty:** best result- hr@5,10,20=0.5589368258859132,0.6614663585001644,0.7605932203388645,ndcg@5,10,20=0.4346333457935099,0.4678397335140145,0.49290631919252564
-- **Art:** best result- hr@5,10,20=0.7105901053047834,0.7908603218753782,0.8627458772101337,ndcg@5,10,20=0.6106452104466733,0.6366201960701804,0.654870696013297
-- **Taobao:**
-
-
 ## prerequisites
 
 - Tensorflow 1.10.0
