@@ -9,7 +9,7 @@ In this work, we aim to reduce the negative effects of multimodal noise and furt
 
 We provide tensorflow implementation for MEGCF. 
 
-### Before running the codes, please download the [datasets](https://baidu.com) and copy them to the Data directory.
+### Before running the codes, please download the [datasets](https://www.aliyundrive.com/s/cmEeDMecU88) and copy them to the Data directory.
 
 **we rerun the MEGCF code on the three datasets and record the best results as follows.**
 
