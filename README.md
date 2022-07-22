@@ -5,7 +5,7 @@
     <img src='https://img.shields.io/badge/key word-Recommender Systems-green.svg' alt="Build Status">
     <img src='https://img.shields.io/badge/key word-Graph Neural Networks-green.svg' alt="Build Status">
     <img src='https://img.shields.io/badge/key word-Multimodal user preferences-green.svg' alt="Build Status">
-    <img src='https://img.shields.io/badge/key word-Contrastive learning.svg' alt="Build Status">
+    <img src='https://img.shields.io/badge/key word-Contrastive learning-green.svg' alt="Build Status">
 </p>
 
 ![framework of MEGCF](model.png)
