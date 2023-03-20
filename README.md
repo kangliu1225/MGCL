@@ -30,10 +30,11 @@ We provide tensorflow implementation for MGCL.
 ## Citation :satisfied:
 If our paper and codes are useful to you, please cite:
 
-@ARTICLE{MGCL,
-  author={Liu, Kang and Xue, Feng and Guo, Dan and Sun, Peijie and Qian, Shengsheng and Hong, Richang},
-  journal={IEEE Transactions on Multimedia}, 
-  title={Multimodal Graph Contrastive Learning for Multimedia-Based Recommendation}, 
-  year={2023},
-  pages={1-13},
-  doi={10.1109/TMM.2023.3251108}}
+@ARTICLE{MGCL,  
+  author={Liu, Kang and Xue, Feng and Guo, Dan and Sun, Peijie and Qian, Shengsheng and Hong, Richang}, 
+  journal={IEEE Transactions on Multimedia},    
+  title={Multimodal Graph Contrastive Learning for Multimedia-Based Recommendation},    
+  year={2023},  
+  pages={1-13}, 
+  doi={10.1109/TMM.2023.3251108}    
+  }
